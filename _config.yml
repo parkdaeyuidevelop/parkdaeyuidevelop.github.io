@@ -16,7 +16,7 @@
 title: Just the Docs
 description: A Jekyll theme for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://parkdaeyuidevelop.github.io"
+url: "https://parkdaeyuidevelop.github.io" 
 repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
