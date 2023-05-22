@@ -7,3 +7,5 @@ permalink: /
 ---
 
 ## 안녕하세요. 메뉴몬 메뉴얼 페이지입니다.
+
+https://parkdaeyuidevelop.github.io/
