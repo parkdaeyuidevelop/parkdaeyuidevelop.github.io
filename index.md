@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: 메인
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "안녕하세요. 메뉴몬 메뉴얼 페이지입니다."
 permalink: /
 ---
 
-## 테스트 내용
+## 안녕하세요. 메뉴몬 메뉴얼 페이지입니다.
